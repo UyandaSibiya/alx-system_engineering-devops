@@ -1,2 +1,2 @@
-ln -s /bin/ls_ls_
+#!/bin/bash
 cp -nu *.html ..
